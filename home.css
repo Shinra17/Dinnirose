@@ -43,12 +43,12 @@
 
     .holdvideo{
         margin: 0 auto;
-        width: 100%;
-        height: 200px;
+        width: 90%;
+        height: 50px;
         border-radius: 10px;
     }
 
-    video{
+    audio{
         width: 100%;
         height: 100%;
         border-radius: 20px;
@@ -57,15 +57,17 @@
 
     .mainimage{
         width: 100%;
-        height: 490px;
+        height: 520px;
         padding-bottom: 20px;
         padding: 10px;
         background-image: url(mainimage.png);
         background-size: cover;
         background-position: center;
         border-radius: 10px;
+        margin-bottom: 30px;
         
     }
+
 
     .holdpictures{
         display: grid;
