@@ -21,6 +21,10 @@ header, .holdvideo, .mainimage, .holdpictures{
     header, .holdvideo, .mainimage, .holdpictures{
         display: block;
     }
+
+    .alert{
+        display: none;
+    }
     
     body{
         margin: 0 auto;
