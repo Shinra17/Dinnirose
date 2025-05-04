@@ -13,8 +13,8 @@ header, .holdvideo, .mainimage, .holdpictures{
 
 
     header, .holdvideo, .mainimage, .holdpictures{
-    display: block;
-}
+        display: block;
+    }
     
     body{
         margin: 0 auto;
