@@ -5,7 +5,11 @@
     font-family: sans-serif;
 }
 
-header, .holdvideo, .mainimage, .holdpictures{
+header{
+    display: none;
+}
+
+.holdvideo, .mainimage, .holdpictures{
     display: none;
 }
 
