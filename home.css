@@ -9,6 +9,12 @@ header, .holdvideo, .mainimage, .holdpictures{
     display: none;
 }
 
+.alert{
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+}
+
 @media (max-width:500px){
 
 
